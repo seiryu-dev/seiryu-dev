@@ -23,25 +23,18 @@
   <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?url=https://raw.githubusercontent.com/roseNblaze/github-stats/main/stats/commits.json&query=%24.yearly_contributions&label=Commits%20this%20year&labelColor=000000&color=F70741&style=for-the-badge&cacheSeconds=120&logo=graph&logoColor=white" />
 </p>
 
-<h3 align="center">⚙️ Tech Stack</h3>
-
 <p align="center">
+  <img src="https://custom-icon-badges.demolab.com/badge/C++-F70741?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=000000" />&nbsp;
+  <img src="https://custom-icon-badges.demolab.com/badge/C%23-F70741?style=for-the-badge&logo=csharp&logoColor=white&labelColor=000000" />&nbsp;
+  <img src="https://custom-icon-badges.demolab.com/badge/ASP.NET-F70741?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=000000" />&nbsp;
+  <img src="https://custom-icon-badges.demolab.com/badge/Qt-F70741?style=for-the-badge&logo=qt&logoColor=white&labelColor=000000" />&nbsp;
+  <img src="https://custom-icon-badges.demolab.com/badge/Git-F70741?style=for-the-badge&logo=git&logoColor=white&labelColor=000000" />&nbsp;
+  <img src="https://custom-icon-badges.demolab.com/badge/SQL-F70741?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000" />&nbsp;
+  <img src="https://custom-icon-badges.demolab.com/badge/HTML-F70741?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000" />&nbsp;
+  <img src="https://custom-icon-badges.demolab.com/badge/CSS-F70741?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000" />&nbsp;
   <img src="https://custom-icon-badges.demolab.com/badge/JavaScript-F70741?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000000" />
-  &nbsp;
-  <img src="https://custom-icon-badges.demolab.com/badge/TypeScript-F70741?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000" />
-  &nbsp;
-  <img src="https://custom-icon-badges.demolab.com/badge/React-F70741?style=for-the-badge&logo=react&logoColor=white&labelColor=000000" />
-  &nbsp;
-  <img src="https://custom-icon-badges.demolab.com/badge/Node.js-F70741?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000" />
-  &nbsp;
-  <img src="https://custom-icon-badges.demolab.com/badge/Express-F70741?style=for-the-badge&logo=express&logoColor=white&labelColor=000000" />
-  &nbsp;
-  <img src="https://custom-icon-badges.demolab.com/badge/PostgreSQL-F70741?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000" />
-  &nbsp;
-  <img src="https://custom-icon-badges.demolab.com/badge/Docker-F70741?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000" />
-  &nbsp;
-  <img src="https://custom-icon-badges.demolab.com/badge/Git-F70741?style=for-the-badge&logo=git&logoColor=white&labelColor=000000" />
 </p>
+
 
 
 
