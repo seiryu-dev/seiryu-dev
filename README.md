@@ -7,15 +7,16 @@
 </p>
 
 <p align="center">
-  <img src="https://custom-icon-badges.demolab.com/github/commits/roseNblaze?style=for-the-badge&logo=git-commit&logoColor=white&label=Commits&labelColor=000000&color=F70741"/>
-
+  <!-- REPOS -->
+  <img src="https://custom-icon-badges.demolab.com/github/repos/roseNblaze?style=for-the-badge&logo=repo&logoColor=white&label=Repos&labelColor=000000&color=F70741"/>
 
   <!-- FOLLOWER -->
   <img src="https://custom-icon-badges.demolab.com/github/followers/roseNblaze?style=for-the-badge&logo=person-add&logoColor=white&label=Follower&labelColor=000000&color=F70741"/>
 
-  <!-- GESAMT-STARS -->
+  <!-- STARS -->
   <img src="https://custom-icon-badges.demolab.com/github/stars/roseNblaze?style=for-the-badge&logo=star-fill&logoColor=white&label=Stars&labelColor=000000&color=F70741"/>
 </p>
+
 
 
 
