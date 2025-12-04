@@ -1,64 +1,82 @@
-# 👋 Hi, I'm roseNblaze  
-### Fullstack Software Developer
+<h1 align="center">🔥 roseNblaze</h1>
+<h3 align="center">Fullstack Software Developer</h3>
 
-> Passionate about building performant, scalable and maintainable software solutions across backend, frontend and native systems.
-
----
-
-## 🚀 About Me
-
-- 💼 Fullstack Software Developer  
-- 🧠 Focus on clean architecture, performance and security  
-- 🔧 Experience with native, web and database-driven applications  
-- 📈 Strong interest in system-level programming and backend engineering
+<p align="center">
+  <i>Building scalable systems, native applications and high-performance backends.</i>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+### 👨‍💻 About Me
 
-### Languages & Frameworks
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+I am a fullstack software developer specializing in **native development, backend systems and database-driven applications**.  
+My work focuses on **performance, clean architecture and maintainable code** – from low-level system components to scalable server infrastructures.
+
+All of my projects are built with a strong emphasis on **robust design, efficiency and long-term stability**.
 
 ---
 
-## 🧩 Core Competencies
-
-- Backend Development & API Design  
-- Native Desktop Applications  
-- Database Design & Optimization  
-- RESTful Services & Microservices  
-- Object-Oriented & System Programming  
-- Performance-Critical Applications
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile-Active-2ea44f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Repositories-Public-informational?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Fullstack%20%26%20Systems-blue?style=for-the-badge" />
+</p>
 
 ---
 
-## 📊 GitHub Statistics
+## 🧰 Languages & Tools
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roseNblaze&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roseNblaze&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48"/>
+</p>
 
 ---
 
-## 🗂️ Featured Projects
+## 📊 Activity & Statistics
 
-> _Pin your most important repositories here for best visibility._
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=roseNblaze&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-- 🔹 **Project Name** – Short description  
-- 🔹 **Project Name** – Short description  
-- 🔹 **Project Name** – Short description  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roseNblaze&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧩 Core Expertise
+
+- High-performance backend systems  
+- Native desktop application development  
+- Relational database design (PostgreSQL)  
+- API design & system integration  
+- Object-oriented & system-level programming  
+- Long-term maintainable architectures  
+
+---
+
+## 🗂️ Featured Work
+
+> Pin your most important repositories for maximum visibility:
+
+- 🔹 **Project Name** – Short professional description  
+- 🔹 **Project Name** – Short professional description  
+- 🔹 **Project Name** – Short professional description  
 
 ---
 
 ## 📫 Contact
 
 - GitHub: https://github.com/roseNblaze  
-- Email: _your.email@domain.com_  
-- Portfolio: _optional_
+- Email: your.email@domain.com  
+- Portfolio (optional): yoursite.dev  
 
 ---
 
-⭐️ _If you like my work, feel free to star my repositories or get in touch._
+<p align="center">
+  <i>Engineered with precision. Designed for longevity.</i>
+</p>
