@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70741&width=435&lines=Rose+N'+Blaze;Fullstack+Software+Developer;C%2B%2B+%7C+C%23+%7C+Qt+%7C+PostgreSQL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=F70741&width=435&lines=Rose+N'+Blaze;Full-stack+Software+Developer;4%2B+Years+of+Coding+Experience;Always+learning+new+things+%3AD)](https://git.io/typing-svg)
 
 ### 🧰 Languages and Tools
 
