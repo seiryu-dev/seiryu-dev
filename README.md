@@ -5,24 +5,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F70741,100:000000&height=3" />
 </p>
-
-**Languages**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/csharp/csharp-plain.svg" width="34"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/cplusplus/cplusplus-plain.svg" width="34"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/javascript/javascript-plain.svg" width="34"/>
-
-**Web**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/html5/html5-plain.svg" width="34"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/css3/css3-plain.svg" width="34"/>
-
-**Frameworks**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/dotnetcore/dotnetcore-original.svg" width="34"/>
-
-**Tools**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/git/git-original.svg" width="34"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/github/github-original.svg" width="34"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/bash/bash-original.svg" width="34"/>
-
-**OS**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/linux/linux-original.svg" width="34"/>
-
