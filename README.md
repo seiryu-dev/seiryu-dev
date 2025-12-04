@@ -8,7 +8,7 @@
 
 <p align="center">
   <!-- REPOS -->
-  <img src="https://custom-icon-badges.demolab.com/github/repos/roseNblaze?style=for-the-badge&logo=repo&logoColor=white&label=Repos&labelColor=000000&color=F70741"/>
+  <img src="https://custom-icon-badges.demolab.com/github/repo-count/roseNblaze?style=for-the-badge&logo=repo&logoColor=white&label=Repos&labelColor=000000&color=F70741"/>
 
   <!-- FOLLOWER -->
   <img src="https://custom-icon-badges.demolab.com/github/followers/roseNblaze?style=for-the-badge&logo=person-add&logoColor=white&label=Follower&labelColor=000000&color=F70741"/>
