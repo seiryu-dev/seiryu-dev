@@ -16,8 +16,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="36"/>
 </p>
 
-![snake animation](https://raw.githubusercontent.com/RoseNBlaze/RoseNBlaze/output/github-contribution-grid-snake.svg)
-
 
 
 
