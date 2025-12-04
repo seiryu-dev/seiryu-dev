@@ -18,9 +18,17 @@
   <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?url=https://raw.githubusercontent.com/roseNblaze/github-stats/main/stats/commits.json&query=%24.yearly_contributions&label=Commits%20this%20year&labelColor=000000&color=F70741&style=for-the-badge&cacheSeconds=120&logo=graph&logoColor=white" />
 </p>
 
-<p align="center">
-  Driven by curiosity and a passion for high-quality engineering, I continuously strive to transform complex challenges into elegant, efficient and production-ready software.
+<div align="left" style="max-width: 780px; margin: 0 auto;">
+
+<p>
+I design and build reliable, scalable software with a strong focus on clean architecture, performance and long-term maintainability.
 </p>
+
+<p>
+Driven by curiosity and a passion for high-quality engineering, I continuously strive to turn complex challenges into elegant, efficient and production-ready software.
+</p>
+
+</div>
 
 <div align="center">
   <img alt="C++" width="35px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />&nbsp;
