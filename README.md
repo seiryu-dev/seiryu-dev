@@ -1,13 +1,8 @@
-<h1 align="left">🔥 roseNblaze</h1>
-<h3 align="left">Fullstack Software Developer</h3>
-
-<p align="left">
-  <i>Building scalable systems, native applications and high-performance backends.</i>
-</p>
+<h1 align="left">🔥 Rose N' Blaze</h1>
 
 ---
 
-### 👨‍💻 About Me
+<h3 align="left">Fullstack Software Developer</h3>
 
 I am a fullstack software developer specializing in **native development, backend systems and database-driven applications**.  
 My work focuses on **performance, clean architecture and maintainable code** – from low-level system components to scalable server infrastructures.
