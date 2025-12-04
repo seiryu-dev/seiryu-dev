@@ -23,21 +23,33 @@
   <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?url=https://raw.githubusercontent.com/roseNblaze/github-stats/main/stats/commits.json&query=%24.yearly_contributions&label=Commits%20this%20year&labelColor=000000&color=F70741&style=for-the-badge&cacheSeconds=120&logo=graph&logoColor=white" />
 </p>
 
-<h3 align="center">⚙️ Tech Stack</h3>
+<img align="left" alt="C++" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
 
-<h3 align="center">⚙️ Tech Stack</h3>
+<img align="left" alt="C#" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-F70741?style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/-F70741?style=for-the-badge&logo=csharp&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/-F70741?style=for-the-badge&logo=dotnet&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/-F70741?style=for-the-badge&logo=qt&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/-F70741?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/-F70741?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/-F70741?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/-F70741?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/-F70741?style=for-the-badge&logo=javascript&logoColor=white" />
-</p>
+<img align="left" alt="ASP.NET" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"/>
+
+<img align="left" alt="Qt" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg"/>
+
+<img align="left" alt="Git" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+
+<img align="left" alt="SQL" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+
+<img align="left" alt="HTML5" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+
+<img align="left" alt="CSS3" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+
 
 
 
