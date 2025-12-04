@@ -23,38 +23,21 @@
   <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?url=https://raw.githubusercontent.com/roseNblaze/github-stats/main/stats/commits.json&query=%24.yearly_contributions&label=Commits%20this%20year&labelColor=000000&color=F70741&style=for-the-badge&cacheSeconds=120&logo=graph&logoColor=white" />
 </p>
 
-<table align="center">
-  <tr>
-    <th align="center">Languages</th>
-    <th align="center">Frameworks</th>
-    <th align="center">Web & Tools</th>
-  </tr>
-  <tr>
-    <!-- Languages -->
-    <td align="center">
-      <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/><br>
-      <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/><br>
-      <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/><br>
-      <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/><br>
-      <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/><br>
-      <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
-    </td>
-
-    <!-- Frameworks -->
-    <td align="center">
-      <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"/><br>
-      <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg"/><br>
-      <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/>
-    </td>
-
-    <!-- Web & Tools -->
-    <td align="center">
-      <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/><br>
-      <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/><br>
-      <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/-F70741?style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/-F70741?style=for-the-badge&logo=csharp&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/-F70741?style=for-the-badge&logo=dotnet&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/-F70741?style=for-the-badge&logo=qt&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/-F70741?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/-F70741?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/-F70741?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/-F70741?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/-F70741?style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/-F70741?style=for-the-badge&logo=php&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/-F70741?style=for-the-badge&logo=laravel&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/-F70741?style=for-the-badge&logo=linux&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/-F70741?style=for-the-badge&logo=apple&logoColor=white" />
+</p>
 
 
 
