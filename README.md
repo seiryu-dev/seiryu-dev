@@ -23,6 +23,8 @@
   <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?url=https://raw.githubusercontent.com/roseNblaze/github-stats/main/stats/commits.json&query=%24.yearly_contributions&label=Commits%20this%20year&labelColor=000000&color=F70741&style=for-the-badge&cacheSeconds=120&logo=graph&logoColor=white" />
 </p>
 
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="35" height="35" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="35" height="35" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="35" height="35" /></div>
+
 
 
 
