@@ -22,34 +22,35 @@
   <!-- YEARLY CONTRIBUTIONS -->
   <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?url=https://raw.githubusercontent.com/roseNblaze/github-stats/main/stats/commits.json&query=%24.yearly_contributions&label=Commits%20this%20year&labelColor=000000&color=F70741&style=for-the-badge&cacheSeconds=120&logo=graph&logoColor=white" />
 </p>
-<p align"center">
-  <img align="left" alt="C++" width="30px" style="padding-right:10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
 
-  <img align="left" alt="C#" width="30px" style="padding-right:10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
+<p align="center">
+  <img alt="C++" width="30px" style="padding:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
 
-  <img align="left" alt="ASP.NET" width="30px" style="padding-right:10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"/>
+  <img alt="C#" width="30px" style="padding:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
 
-  <img align="left" alt="Qt" width="30px" style="padding-right:10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg"/>
+  <img alt="ASP.NET" width="30px" style="padding:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"/>
 
-  <img align="left" alt="Git" width="30px" style="padding-right:10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+  <img alt="Qt" width="30px" style="padding:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg"/>
 
-  <img align="left" alt="SQL" width="30px" style="padding-right:10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+  <img alt="Git" width="30px" style="padding:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 
-  <img align="left" alt="HTML5" width="30px" style="padding-right:10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img alt="SQL" width="30px" style="padding:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
 
-  <img align="left" alt="CSS3" width="30px" style="padding-right:10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  <img alt="HTML5" width="30px" style="padding:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
 
-  <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-<p/>
+  <img alt="CSS3" width="30px" style="padding:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+
+  <img alt="JavaScript" width="30px" style="padding:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+</p>
 
 
 
