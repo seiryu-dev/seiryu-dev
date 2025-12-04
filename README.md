@@ -25,16 +25,18 @@
 
 <h3 align="center">⚙️ Tech Stack</h3>
 
+<h3 align="center">⚙️ Tech Stack</h3>
+
 <p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/-F70741?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=000000" />&nbsp;
-  <img src="https://custom-icon-badges.demolab.com/badge/-F70741?style=for-the-badge&logo=csharp&logoColor=white&labelColor=000000" />&nbsp;
-  <img src="https://custom-icon-badges.demolab.com/badge/-F70741?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=000000" />&nbsp;
-  <img src="https://custom-icon-badges.demolab.com/badge/-F70741?style=for-the-badge&logo=qt&logoColor=white&labelColor=000000" />&nbsp;
-  <img src="https://custom-icon-badges.demolab.com/badge/-F70741?style=for-the-badge&logo=git&logoColor=white&labelColor=000000" />&nbsp;
-  <img src="https://custom-icon-badges.demolab.com/badge/-F70741?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000" />&nbsp;
-  <img src="https://custom-icon-badges.demolab.com/badge/-F70741?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000" />&nbsp;
-  <img src="https://custom-icon-badges.demolab.com/badge/-F70741?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000" />&nbsp;
-  <img src="https://custom-icon-badges.demolab.com/badge/-F70741?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/-F70741?style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/-F70741?style=for-the-badge&logo=csharp&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/-F70741?style=for-the-badge&logo=dotnet&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/-F70741?style=for-the-badge&logo=qt&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/-F70741?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/-F70741?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/-F70741?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/-F70741?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/-F70741?style=for-the-badge&logo=javascript&logoColor=white" />
 </p>
 
 
