@@ -5,6 +5,14 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F70741,100:000000&height=3" />
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RoseNBlaze&show_icons=true&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RoseNBlaze&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" width="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" width="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="36"/>
